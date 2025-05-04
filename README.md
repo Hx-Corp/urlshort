@@ -49,7 +49,7 @@ Built with ❤️ by [Neeraj Sah (Team HyperGod-X)](https://github.com/nxneeraj)
 ### ✅ Option 1: Global Install via Go (Recommended)
 
 ```bash
-go install github.com/hx-corp/urlshort@latest
+go install github.com/Hx-Corp/urlshort@latest
 ```
 
 > ⚠️ Ensure your `$GOPATH/bin` is in your system `PATH`:
