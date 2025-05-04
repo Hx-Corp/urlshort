@@ -217,14 +217,14 @@ func showBanner() {
 		colorWhite, colorCyan+bold, colorReset, colorCyan+italic, colorReset, colorWhite, colorReset)
 
 	// Use Case line
-	fmt.Printf("%s║ %s💡 Use Case:%s  %sSecurity Testing • Web Dev Utility • Payload Injector%s                               %s║%s\n",
+	fmt.Printf("%s║ %s💡 Use Case:%s  %sSecurity Testing • Web Dev Utility • Payload Injector%s                                 %s║%s\n",
 		colorWhite, colorYellow+bold, colorReset, colorYellow+italic, colorReset, colorWhite, colorReset)
 
 	// Separator
 	fmt.Printf("%s╠════════════════════════════════════════════════════════════════════════════════════════════════════╣%s\n", colorWhite, colorReset)
 
 	// Developer/Version/License line
-	fmt.Printf("%s║ %s👾 Developed by:%s %sTeam HyperGod-X%s   %s📦 Version:%s %s1.1.0%s   %s📝 License:%s %sMIT%s                           %s║%s\n", // Consider bumping version
+	fmt.Printf("%s║ %s👾 Developed by:%s %sTeam HyperGod-X%s   %s📦 Version:%s %s1.1.0%s   %s📝 License:%s %sMIT%s                               %s║%s\n", // Consider bumping version
 		colorWhite, colorPurple+bold, colorReset, colorPurple+italic, colorReset,
 		colorBlue+bold, colorReset, colorBlue+bold, colorReset, // Updated Version to 1.1.0
 		colorGreen+bold, colorReset, colorGreen+bold, colorReset,
